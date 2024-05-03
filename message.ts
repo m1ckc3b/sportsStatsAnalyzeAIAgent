@@ -1,0 +1,1 @@
+export const message = "Quel est le pourcentage de buts par periode pour l'équipe de hockey des Dallas Stars sur les 10 derniers matchs domicile/extérieurs confondu ?"
